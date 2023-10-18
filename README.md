@@ -11,6 +11,19 @@ Job Finder App adalah aplikasi yang tujuan akhirnya dibuat untuk user dalam menc
 - Halaman Detail Job
 <img src="dokumentasi/DetailJob.png" width="200" height="420">
 
+# Asset
+Asset yang digunakan pada pengembangan Job Finder App ini yaitu hanya pattern2.png. Asset tersebut digunakan untuk background saja.
+Berikut gambar dari pattern2.png:
+
+
+<img src="assets/pattern/pattern2.png" width="200" height="140">
+
+# Paket yang digunakan
+- https://pub.dev/packages/cupertino_icons
+- https://pub.dev/packages/font_awesome_flutter
+- https://pub.dev/packages/iconsax
+- https://pub.dev/packages/smooth_page_indicator
+
 A new Flutter project.
 
 ## Getting Started
