@@ -1,15 +1,15 @@
 # Job Finder App
 
-Job Finder App adalah aplikasi yang tujuan akhirnya ingin dibuat untuk user dalam mencari pekerjaan di perusahaan yang telah di kami sediakan. Namun, pada pengembangan saat ini, masih dalam tahap design berupa 3 Halaman. Berikut design halaman pada Job Finder App:
+Job Finder App adalah aplikasi yang tujuan akhirnya dibuat untuk user dalam mencari pekerjaan di perusahaan yang telah di kami sediakan. Namun, pada pengembangan saat ini, masih dalam tahap design berupa 3 Halaman. Berikut design halaman pada Job Finder App:
 
 - Halaman Home
-  ![Img 1](dokumentasi/HomePage.png)
+<img src="dokumentasi/HomePage.png" width="200" height="420">
 
 - Halaman Category
-  ![Img 2](dokumentasi/Category.png)
+<img src="dokumentasi/Category.png" width="200" height="420">
 
 - Halaman Detail Job
-  ![Img 3](dokumentasi/DetailJob.png)
+<img src="dokumentasi/DetailJob.png" width="200" height="420">
 
 A new Flutter project.
 
